@@ -34,16 +34,17 @@
   font-size: 15px;
   font-weight: bold;
 }
-.styleBtn .stop {
-  background-color: red;
+.styleBtn .reset {
+  background-color: rgb(236, 13, 128);
   color: white;
   border: none;
   margin: 0px 10px;
   font-size: 15px;
   font-weight: bold;
 }
-.styleBtn .reset {
-  background-color: rgb(236, 13, 128);
+
+.styleBtn .stop {
+  background-color: red;
   color: white;
   border: none;
   font-size: 15px;

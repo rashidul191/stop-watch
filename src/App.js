@@ -30,11 +30,11 @@ function App() {
           <button className="btn start" onClick={() => setRunning(true)}>
             Start
           </button>
-          <button className="btn stop" onClick={() => setRunning(false)}>
-            Stop
-          </button>
           <button className="btn reset" onClick={() => setTime(0)}>
             Reset
+          </button>
+          <button className="btn stop" onClick={() => setRunning(false)}>
+            Stop
           </button>
         </div>
       </div>
